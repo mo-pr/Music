@@ -21,5 +21,5 @@ function next() {
     slider.src = images[num];
 }*/
 function auto(){
-	setInterval(next, 6000);
+	setInterval(next, 4000);
 }

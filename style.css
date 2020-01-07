@@ -1,11 +1,9 @@
+/*Allgemeines*/
 body{margin: 0; font-family: 'Courier New', 'Courier', monospace;}
-header{
-	height: 70px;
-	width: 100%;
-	background-color: #f0f0f0;
-	position: fixed;
-}
+header{height: 70px; width: 100%; background-color: #f0f0f0; position: sticky}
 header img{float: left; width: 60px;}
+a{color: #494949; text-decoration: none;}
+.Nav-List li :hover{padding-top: 15px;}
 
 /*Navigationbar Left Part*/
 .Nav-List{ padding-top: 8px; float: left;}
@@ -13,20 +11,12 @@ header img{float: left; width: 60px;}
 
 /*Navigationbar Right Part*/
 #registrateLogIn ul{float: right; padding-top: 8px;}
-#registrateLogIn ul li{font-size: 20px; float: left; padding-right: 30px; list-style: none;}
+#registrateLogIn ul li{font-size: 19px; float: left; padding-right: 30px; list-style: none;}
 
 /*Dropdown for "Festivals"*/
 .dropdown {float: left; overflow: hidden;}
-.dropdown .dropbtn{font-size: 20px; padding-right: 18px; border: none; outline: none; color: #494949; background-color: inherit; font-family: inherit;}
+.dropdown .dropbtn{font-size: 19px; padding-right: 18px; border: none; outline: none; color: #494949; background-color: inherit; font-family: inherit;}
 .dropdown-content {display: none; position: absolute; background-color: #f0f0f0; max-width: 200px; box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2); z-index: 1;}
 .dropdown-content a {float: none; color: #494949; padding: 12px 16px; text-decoration: none; display: block; text-align: left;}
 .dropdown-content a:hover {background-color: #ddd;}
 .dropdown:hover .dropdown-content {display: block;}
-
-a{
-	color: #494949;
-	text-decoration: none;
-}
-.Nav-List li :hover{
-	padding-top: 15px;
-}

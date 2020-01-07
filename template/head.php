@@ -5,7 +5,7 @@
 	<link rel="stylesheet" type="text/css" href="./css/style.css">
 	<title>Music</title>
 	<link rel="icon" href="img/logo.png">
-	<script src="script.js"></script>
+	<script src="../js/script.js"></script>
 </head>
 
 <body>

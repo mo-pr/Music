@@ -1,7 +1,7 @@
 var images = [
-    './Pics/Place.png', 
-    './Pics/Place.png', 
-    './Pics/Place.png'
+    './img/Place.png', 
+    './img/Place.png', 
+    './img/Place.png'
 ];
 var num = 0;
 function next() {

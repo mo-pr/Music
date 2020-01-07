@@ -2,15 +2,15 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="stylesheet" type="text/css" href="./css/style.css">
 	<title>Music</title>
-	<link rel="icon" href="Pics/logo.png">
+	<link rel="icon" href="img/logo.png">
 	<script src="script.js"></script>
 </head>
 
 <body>
 	<header>
-		<a href="index.html"><img src="Pics/logo.png" alt="Logo"></a>
+		<a href="index.html"><img src="img/logo.png" alt="Logo"></a>
 		<nav>
 			<ul class="Nav-List">
 				<li><a href="index.php">Home</a></li>

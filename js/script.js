@@ -1,7 +1,7 @@
 var images = [
-    './img/tomorrowland.jpg', 
-    './img/frequency.jpg', 
-    './img/donauinselfest.jpg'
+    '../img/tomorrowland.jpg', 
+    '../img/frequency.jpg', 
+    '../img/donauinselfest.jpg'
 ];
 var num = 0;
 function next() {
@@ -12,14 +12,14 @@ function next() {
     }
     slider.src = images[num];
 }
-function prev() {
+/*function prev() {
     var slider = document.getElementById('slider');
     num--;
     if(num < 0) {
         num = images.length-1;
     }
     slider.src = images[num];
-}
+}*/
 function auto(){
 	setInterval(next, 6000);
 }

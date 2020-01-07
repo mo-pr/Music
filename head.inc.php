@@ -13,7 +13,7 @@
 		<a href="index.html"><img src="Pics/logo.png" alt="Logo"></a>
 		<nav>
 			<ul class="Nav-List">
-				<li><a href="index.html">Home</a></li>
+				<li><a href="index.php">Home</a></li>
 				<li><a>Genres</a></li>
 			  <div class="dropdown">
     			<button class="dropbtn">Festivals<i class="fa fa-caret-down"></i></button>

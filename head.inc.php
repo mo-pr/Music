@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<link rel="stylesheet" type="text/css" href="style.css">
-	<title>Musik</title>
+	<title>Music</title>
 	<link rel="icon" href="Pics/logo.png">
 	<script src="script.js"></script>
 </head>

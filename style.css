@@ -1,12 +1,39 @@
+body{
+	margin: 0;
+	font-family: 'Courier New', 'Courier', monospace;
+}
+header{
+	height: 70px;
+	width: 100%;
+	background-color: #f0f0f0;
+	position: fixed;
+}
+header img{
+	float: left;
+	width: 60px;
+}
 header nav ul{
+	padding-top: 7px;
+	float: left;
+}
+#registrateLogIn ul{
 	float: right;
+}
+#registrateLogIn ul li{
+	font-size: 20px;
+	float: left;
+	padding-right: 25px;
 }
 header nav ul li{
 	float: left;
-	padding-right: 15px;
+	font-size: 20px;
+	padding-right: 18px;
 	list-style: none;
 }
 a{
 	color: #494949;
 	text-decoration: none;
+}
+a :hover{
+	padding-top: 15px;
 }

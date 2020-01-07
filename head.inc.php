@@ -19,8 +19,8 @@
     			<button class="dropbtn">Festivals<i class="fa fa-caret-down"></i></button>
 				<div class="dropdown-content">
 				  <a href="tomorrowland.html" target="_blank">Tomorrowland</a>
-				  <a href="frequency.php" target="_blank">Frquency</a>
-				  <a href="donauinsel.php" target="_blank">Donauinselfest</a>
+				  <a href="frequency.html" target="_blank">Frquency</a>
+				  <a href="donauinsel.html" target="_blank">Donauinselfest</a>
 			  	</div>
 			</div> 
 				<li><a>Forum</a></li>
@@ -34,9 +34,4 @@
 			</div>
 		</nav>
 </header>
-	<script>auto();</script>
-	<div>
-	  <img id="slider" src="Pics/Place.png" alt="IMG" width="100%" height="auto"/>
-	</div>
-</body>
-</html>
+	

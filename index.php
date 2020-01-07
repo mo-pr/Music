@@ -1,4 +1,4 @@
-<?php require('./template/head.php');
+<?php include('./template/head.php');
 require('./config/config.php');?>
 
 <script>auto();</script>

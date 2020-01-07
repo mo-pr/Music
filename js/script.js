@@ -1,7 +1,7 @@
 var images = [
-    './img/Place.png', 
-    './img/Place.png', 
-    './img/Place.png'
+    './img/tomorrowland.jpg', 
+    './img/frequency.jpg', 
+    './img/donauinselfest.jpg'
 ];
 var num = 0;
 function next() {

@@ -4,13 +4,13 @@
 	<meta charset="utf-8">
 	<link rel="stylesheet" type="text/css" href="./css/style.css">
 	<title>Music</title>
-	<link rel="icon" href="img/logo.png">
+	<link rel="icon" href="logo.png">
 	<script src="./js/script.js"></script>
 </head>
 
 <body>
 	<header>
-		<a href="index.php"><img src="img/logo.png" alt="Logo"></a>
+		<a href="index.php"><img src="logo.png" alt="Logo"></a>
 		<nav>
 			<ul class="Nav-List">
 				<li><a href="index.php">Home</a></li>
@@ -21,6 +21,7 @@
 				  <a href="./tomorrowland.php" target="_blank">Tomorrowland</a>
 				  <a href="./frequency.php" target="_blank">Frquency</a>
 				  <a href="./donauinsel.php" target="_blank">Donauinselfest</a>
+				  <a href="./ultramusicfestival.php" target="_blank">Ultra Music Festival</a>
 			  	</div>
 			</div> 
 				<li><a>Forum</a></li>
@@ -28,10 +29,9 @@
 			</ul>
 			<div id="registrateLogIn">
 				<ul>
-					<li><a>Log In</a></li>
-					<li><a>Sign Up</a></li>
+					<li><a href="login.php">Log In</a></li>
+					<li><a href="registrate.php">Sign Up</a></li>
 				</ul>
 			</div>
 		</nav>
 </header>
-	

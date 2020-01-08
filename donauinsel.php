@@ -1,4 +1,4 @@
-<?php include('head.inc.php');?>
+<?php include('head.php');?>
 
 <body>
     <h2>Donauinsel</h2> <br>

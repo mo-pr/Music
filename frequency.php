@@ -1,4 +1,4 @@
-<?php include('head.inc.php');?>
+<?php include('head.php');?>
 
 <h2>Frequency festival</h2> <br>
 

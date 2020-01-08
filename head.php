@@ -5,12 +5,12 @@
 	<link rel="stylesheet" type="text/css" href="./css/style.css">
 	<title>Music</title>
 	<link rel="icon" href="img/logo.png">
-	<script src="../js/script.js"></script>
+	<script src="./js/script.js"></script>
 </head>
 
 <body>
 	<header>
-		<a href="index.html"><img src="img/logo.png" alt="Logo"></a>
+		<a href="index.php"><img src="img/logo.png" alt="Logo"></a>
 		<nav>
 			<ul class="Nav-List">
 				<li><a href="index.php">Home</a></li>
@@ -18,9 +18,9 @@
 			  <div class="dropdown">
     			<button class="dropbtn">Festivals<i class="fa fa-caret-down"></i></button>
 				<div class="dropdown-content">
-				  <a href="/templates/tomorrowland.php" target="_blank">Tomorrowland</a>
-				  <a href="/templates/frequency.php" target="_blank">Frquency</a>
-				  <a href="/templates/donauinsel.php" target="_blank">Donauinselfest</a>
+				  <a href="./tomorrowland.php" target="_blank">Tomorrowland</a>
+				  <a href="./frequency.php" target="_blank">Frquency</a>
+				  <a href="./donauinsel.php" target="_blank">Donauinselfest</a>
 			  	</div>
 			</div> 
 				<li><a>Forum</a></li>

@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<link rel="stylesheet" type="text/css" href="./css/style.css">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
 	<title>Music</title>
 	<link rel="icon" href="logo.png">
 	<script src="./js/script.js"></script>
@@ -18,10 +18,10 @@
 			  <div class="dropdown">
     			<button class="dropbtn">Festivals<i class="fa fa-caret-down"></i></button>
 				<div class="dropdown-content">
-				  <a href="./tomorrowland.php" target="_blank">Tomorrowland</a>
-				  <a href="./frequency.php" target="_blank">Frquency</a>
-				  <a href="./donauinsel.php" target="_blank">Donauinselfest</a>
-				  <a href="./ultramusicfestival.php" target="_blank">Ultra Music Festival</a>
+				  <a href="./tomorrowland.php">Tomorrowland</a>
+				  <a href="./frequency.php">Frquency</a>
+				  <a href="./donauinsel.php">Donauinselfest</a>
+				  <a href="./ultramusicfestival.php" >Ultra Music Festival</a>
 			  	</div>
 			</div> 
 				<li><a>Forum</a></li>

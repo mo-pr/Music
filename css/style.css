@@ -1,26 +1,33 @@
 /*Allgemeines*/
 body{margin: 0; font-family: 'Courier New', 'Courier', monospace;}
 header{width: 100%; background-color: #f0f0f0; position: sticky; height: 70px;}
-header img{float: left; width: 60px;}
+header img{float: left; width: 60px;transition-duration: 0.3s; padding-top: 5px;}
 a{color: #494949; text-decoration: none;}
+header img:hover{opacity: 0.6}
 
 /*Navigationbar Left Part*/
 .Nav-List{ padding-top: 8px; float: left; padding-inline-start: 15px;}
-.Nav-List li{float: left; font-size: 20px; padding-right: 18px; list-style: none;}
+.Nav-List li{float: left; font-size: 20px; padding-right: 18px; list-style: none; transition-duration: 0.4s}
+.Nav-List li:hover{padding-top: 7px;}
 
 /*Navigationbar Right Part*/
 #registrateLogIn ul{float: right; padding-top: 8px;}
-#registrateLogIn ul li{font-size: 20px; float: left; padding-right: 30px; list-style: none;}
+#registrateLogIn ul li{font-size: 20px; float: left; padding-right: 30px; list-style: none; transition-duration: 0.4s}
+#registrateLogIn ul li:hover{padding-top: 7px;}
+
 
 /*Dropdown for "Festivals"*/
 .dropdown {float: left; overflow: hidden;}
-.dropdown .dropbtn{font-size: 19px; padding-right: 18px; border: none; outline: none; color: #494949; background-color: inherit; font-family: inherit;}
+.dropdown .dropbtn{font-size: 19px; padding-right: 18px; border: none; outline: none; color: #494949; background-color: inherit; font-family: inherit; transition-duration: 0.4s}
 .dropdown-content {display: none; position: absolute; background-color: #f0f0f0; max-width: 200px; box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2); z-index: 1;}
 .dropdown-content a {float: none; color: #494949; padding: 12px 16px; text-decoration: none; display: block; text-align: left;}
 .dropdown-content a:hover {background-color: #ddd;}
 .dropdown:hover .dropdown-content {display: block;}
+.dropbtn:hover{padding-top: 7px;}
 
-/*LogIn Style*/
-.login{margin: 1px 35% 1px 35%; padding: 0px 3px; width: 30%; height: 20px; border-radius: 5px;box-shadow: 0 0 0 0 #f0f0f0; border:  1px solid #316CC8}
-.loginText{text-align: center;}
-#submit{margin: 35px 42.5% 1px 42.5%; width: 15%; height: 25px; background-color: #f0f0f0; border: 1px solid #316CC8; border-radius: 5px;}
+/*LogIn & Registration Style*/
+#login #registrate{padding-top: 30px;}
+.input{margin: 1px 35% 1px 33%; padding: 0px 3px; width: 26%; height: 30px; border-radius: 5px;box-shadow: 0 0 0 0 #f0f0f0; border:  1px solid #316CC8}
+.inputText{padding-left: 33%; margin-bottom: 2px;; padding-top: 15px; font-size: 17px;}
+.submit{margin: 40px 45% 1px 33%; width: 7%; height: 30px;background-color: #f0f0f0; border: 1px solid #316CC8; border-radius: 5px; color: #316CC8; transition-duration: 0.5s;}
+.submit:hover{background-color: #316CC8; color: #ffffff}

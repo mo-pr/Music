@@ -1,6 +1,7 @@
 <?php include('head.php');?>
 
-<h2>Ultra Music Festival</h2> <br>
+<div class="festival ultramusicfestival">
+<h2 class="heading">Ultra Music Festival</h2> <br>
 
     <div id="basic">
         <ul>
@@ -33,9 +34,7 @@
     </div>
 
     <br>
-    <footer>
-        ©Huemer-Huemer Fabian / Preining Moritz
-    </footer>
+</div>
 </body>
 
 </html>

@@ -1,6 +1,13 @@
+/* #4184BF
+   #59A8D9
+   #54A1BF
+   #96C6D9
+   #F0F2F2
+*/
+
 /*Allgemeines*/
-body{margin: 0; font-family: 'Courier New', 'Courier', monospace;}
-header{width: 100%; background-color: #f0f0f0; position: sticky; height: 70px;}
+body{margin: 0; font-family: 'Courier New', 'Courier', monospace; background-color: #f0f0f0}
+header{width: 100%; background-color: #F0F2F2; position: sticky; height: 70px; box-shadow: 0px 0px 7px 1px #424242}
 header img{float: left; width: 60px;transition-duration: 0.3s; padding-top: 5px;}
 a{color: #494949; text-decoration: none;}
 header img:hover{opacity: 0.6}
@@ -18,16 +25,22 @@ header img:hover{opacity: 0.6}
 
 /*Dropdown for "Festivals"*/
 .dropdown {float: left; overflow: hidden;}
-.dropdown .dropbtn{font-size: 19px; padding-right: 18px; border: none; outline: none; color: #494949; background-color: inherit; font-family: inherit; transition-duration: 0.4s}
-.dropdown-content {display: none; position: absolute; background-color: #f0f0f0; max-width: 200px; box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2); z-index: 1;}
+.dropdown .dropbtn{font-size: 20px; padding-left: 0px; padding-right: 18px; border: none; outline: none; color: #494949; background-color: inherit; font-family: inherit; transition-duration: 0.4s}
+.dropdown-content {display: none; position: absolute; background-color: #F0F2F2; max-width: 200px; box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2); z-index: 1;}
 .dropdown-content a {float: none; color: #494949; padding: 12px 16px; text-decoration: none; display: block; text-align: left;}
 .dropdown-content a:hover {background-color: #ddd;}
 .dropdown:hover .dropdown-content {display: block;}
 .dropbtn:hover{padding-top: 7px;}
 
 /*LogIn & Registration Style*/
-#login #registrate{padding-top: 30px;}
-.input{margin: 1px 35% 1px 33%; padding: 0px 3px; width: 26%; height: 30px; border-radius: 5px;box-shadow: 0 0 0 0 #f0f0f0; border:  1px solid #316CC8}
+#login, #registrate{padding-top: 30px;}
+.input{margin: 1px 35% 1px 33%; padding: 0px 3px; width: 26%; height: 30px; border-radius: 5px;box-shadow: 0 0 0 0 #F0F2F2; border:  1px solid #4184BF}
 .inputText{padding-left: 33%; margin-bottom: 2px;; padding-top: 15px; font-size: 17px;}
-.submit{margin: 40px 45% 1px 33%; width: 7%; height: 30px;background-color: #f0f0f0; border: 1px solid #316CC8; border-radius: 5px; color: #316CC8; transition-duration: 0.5s;}
-.submit:hover{background-color: #316CC8; color: #ffffff}
+.submit{margin: 40px 45% 1px 33%; width: 7%; height: 30px;background-color: #F0F2F2; border: 1px solid #4184BF; border-radius: 5px; color: #4184BF; transition-duration: 0.5s;}
+.input:focus{outline: none;}
+.submit:hover{background-color: #4184BF; color: #ffffff;}
+
+/*Festival Style*/
+.heading{text-decoration: underline;}
+.festival{text-align: center;}
+.festival ul li{list-style: none;}

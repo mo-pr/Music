@@ -1,6 +1,7 @@
 <?php include('head.php');?>
 
-<h2>Frequency festival</h2> <br>
+<div class="festival frequency">
+<h2 class="heading">Frequency festival</h2> <br>
 
     <div id="basic">
         <ul>
@@ -32,11 +33,7 @@
     </div>
 
     <br>
-    <footer>
-        ©Huemer-Huemer Fabian / Preining Moritz
-    </footer>
-
-
+</div>
 </body>
 
 </html>

@@ -1,7 +1,7 @@
 <?php include('head.php');?>
 
-<body>
-    <h2>Donauinsel</h2> <br>
+<div class="festival donauinselfest">
+<h2 class="heading">Donauinsel</h2> <br>
 
     <div id="basic">
         <ul>
@@ -39,9 +39,7 @@
     </div>
 
     <br>
-    <footer>
-        ©Huemer-Huemer Fabian / Preining Moritz
-    </footer>
+</div>
 </body>
 
 </html>

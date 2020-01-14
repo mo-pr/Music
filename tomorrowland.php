@@ -1,6 +1,7 @@
 <?php include('head.php');?>
 
-<h2>Tommorowland</h2> <br>
+<div class="festival tomorrowland">
+<h2 class="heading">Tommorowland</h2> <br>
 
     <div id="basic">
         <ul>
@@ -11,7 +12,7 @@
             <h4>When: Annually in June</h4>
             <h4>Attendance: 400 000 thousand in 2019</h4>
             <li>
-                <h3><u>TomorrowlandWorld</u></h3>
+                <h3><u>Tomorrowland World</u></h3>
             </li>
             <h4>Where: Chattahoochee Hills, Georgia, USA</h4>
             <h4>When: 2013–2015, end september</h4>
@@ -52,9 +53,7 @@
     </div>
 
     <br>
-    <footer>
-        ©Huemer-Huemer Fabian / Preining Moritz
-    </footer>
+</div>
 </body>
 
 </html>

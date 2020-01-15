@@ -25,7 +25,7 @@
 			  	</div>
 			</div> 
 				<li><a>Forum</a></li>
-				<li><a>About</a></li>
+				<li><a href="about.php">About</a></li>
 			</ul>
 			<div id="registrateLogIn">
 				<ul>

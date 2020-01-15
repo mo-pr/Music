@@ -6,7 +6,7 @@
 */
 
 /*Allgemeines*/
-body{margin: 0; font-family: 'Courier New', 'Courier', monospace; background-color: #f0f0f0}
+body{margin: 0; font-family: 'Courier New', 'Courier', monospace; background-color: #ffffff;}
 header{width: 100%; background-color: #F0F2F2; position: sticky; height: 70px; box-shadow: 0px 0px 7px 1px #424242}
 header img{float: left; width: 60px;transition-duration: 0.3s; padding-top: 5px;}
 a{color: #494949; text-decoration: none;}
@@ -30,10 +30,10 @@ header img:hover{opacity: 0.6}
 .dropdown-content a {float: none; color: #494949; padding: 12px 16px; text-decoration: none; display: block; text-align: left;}
 .dropdown-content a:hover {background-color: #ddd;}
 .dropdown:hover .dropdown-content {display: block;}
-.dropbtn:hover{padding-top: 7px;}
+.dropbtn:hover{padding-top: 7px; cursor: pointer;}
 
 /*LogIn & Registration Style*/
-#login, #registrate{padding-top: 30px;}
+#login, #registrate{padding-top: 30px; background-color: #ffffff;}
 .input{margin: 1px 35% 1px 33%; padding: 0px 5px; width: 26%; height: 30px; border-radius: 5px;box-shadow: 0 0 0 0 #F0F2F2; border:  1px solid #4184BF}
 .inputText{padding-left: 33%; margin-bottom: 2px;; padding-top: 15px; font-size: 17px;}
 .submit{margin: 40px 45% 1px 33%; width: 7%; height: 30px;background-color: #F0F2F2; border: 1px solid #4184BF; border-radius: 5px; color: #4184BF; transition-duration: 0.5s;}

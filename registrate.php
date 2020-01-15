@@ -10,5 +10,4 @@
 	<input type="password" name="repeatpassw" class="input" required name="password"><br>
 	<input type="submit" value="Registrate" class="submit">
 </div>
-</body>
-</html>
+<?php include('footer.php');?>

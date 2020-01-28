@@ -17,6 +17,15 @@
 				<hr class="line">
 			</td>
 		</tr>
+		<tr>
+			<td class="text">
+				Preining Moritz<br>
+				<img src="">
+			</td>
+			<td class="text">
+				Huemer-Huemer Fabian
+			</td>
+		</tr>
 	</tbody>
 </table>
 <?php include('footer.php');?>

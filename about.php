@@ -20,10 +20,13 @@
 		<tr>
 			<td class="text">
 				Preining Moritz<br>
-				<img src="">
+				<a href="https://www.instagram.com/m.preining/" target="_blank"><img src="ig.jpg" class="socialmedia"></a>
+				<a href="https://github.com/mo-pr" target="_blank"><img src="gh.png" class="socialmedia"></a><br>
 			</td>
 			<td class="text">
-				Huemer-Huemer Fabian
+				Huemer-Huemer Fabian<br>
+				<a href="https://www.instagram.com/fabii.hmr/" target="_blank"><img src="ig.jpg" class="socialmedia"></a>
+				<a href="https://github.com/fa-hh" target="_blank"><img src="gh.png" class="socialmedia"></a><br>
 			</td>
 		</tr>
 	</tbody>

@@ -50,9 +50,10 @@ header img:hover{opacity: 0.6}
 .festival ul li{list-style: none;}
 
 /*About Style*/
-table{text-align: center;padding-top: 3%; padding-left: 32%;}
-table img{width: 40%;}
+table{text-align: center;padding-top: 3%; padding-left: 22%; font-size: 23px;}
+table img{width: 30%;}
 table hr{width: 40%;}
+.socialmedia{width: 15%}
 
 /*Footer Style*/
 footer{text-align: center; background-color: #f0f2f2; margin-bottom: 0px; margin-top: 0px; padding-bottom: 20px; padding-top: 5px; box-shadow: 0px 0px 7px 1px #424242;}

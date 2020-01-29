@@ -12,7 +12,6 @@ header img{float: left; width: 60px;transition-duration: 0.3s; padding-top: 5px;
 a{color: #494949; text-decoration: none;}
 header img:hover{opacity: 0.6}
 #slideshow{margin: 0px; padding: 0px; background-color: #f0f2f2;}
-#indexfooter{text-align: center; background-color: #f0f2f2; margin-bottom: 0px; margin-top: 0px; padding-bottom: 20px; padding-top: 5px; box-shadow: 0 0 0 0 #ffffff}
 
 /*Navigationbar Left Part*/
 .Nav-List{ padding-top: 8px; float: left; padding-inline-start: 15px;}
@@ -36,8 +35,8 @@ header img:hover{opacity: 0.6}
 
 /*LogIn & Registration Style*/
 #login, #registrate{background-color: #ffffff;}
-#login{padding-bottom: 17%; padding-top: 7%}
-#registrate{padding-bottom: 13%; padding-top: 6%}
+#login{padding-bottom: 14.5%; padding-top: 7%}
+#registrate{padding-bottom: 11%; padding-top: 6%}
 .input{margin: 1px 35% 1px 33%; padding: 0px 5px; width: 26%; height: 30px; border-radius: 5px;box-shadow: 0 0 0 0 #F0F2F2; border:  1px solid #4184BF}
 .inputText{padding-left: 33%; margin-bottom: 2px;; padding-top: 15px; font-size: 17px;}
 .submit{margin: 40px 45% 1px 33%; width: 7%; height: 30px;background-color: #F0F2F2; border: 1px solid #4184BF; border-radius: 5px; color: #4184BF; transition-duration: 0.5s;}
@@ -50,10 +49,11 @@ header img:hover{opacity: 0.6}
 .festival ul li{list-style: none;}
 
 /*About Style*/
-table{text-align: center;padding-top: 3%; padding-left: 22%; font-size: 23px;}
+table{text-align: center;padding-top: 3%; padding-left: 12%; font-size: 23px;}
 table img{width: 30%;}
 table hr{width: 40%;}
 .socialmedia{width: 15%}
 
 /*Footer Style*/
 footer{text-align: center; background-color: #f0f2f2; margin-bottom: 0px; margin-top: 0px; padding-bottom: 20px; padding-top: 5px; box-shadow: 0px 0px 7px 1px #424242;}
+#contact{font-size: 20px;}

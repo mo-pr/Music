@@ -1,4 +1,5 @@
-/* #4184BF
+ /* 
+   #4184BF
    #59A8D9
    #54A1BF
    #96C6D9
@@ -7,7 +8,7 @@
 
 /*Allgemeines*/
 body{margin: 0; font-family: 'Courier New', 'Courier', monospace; background-color: #ffffff;}
-header{width: 100%; background-color: #F0F2F2; position: sticky; height: 70px; box-shadow: 0px 0px 7px 1px #424242}
+header{width: 100%; background-color: #F0F2F2; position: static; height: 70px; box-shadow: 0px 0px 7px 1px #424242}
 header img{float: left; width: 60px;transition-duration: 0.3s; padding-top: 5px;}
 a{color: #494949; text-decoration: none;}
 header img:hover{opacity: 0.6}
@@ -16,12 +17,12 @@ header img:hover{opacity: 0.6}
 /*Navigationbar Left Part*/
 .Nav-List{ padding-top: 8px; float: left; padding-inline-start: 15px;}
 .Nav-List li{float: left; font-size: 20px; padding-right: 18px; list-style: none; transition-duration: 0.4s}
-.Nav-List li:hover{padding-top: 7px;}
+.Nav-List li:hover{font-size: 24px;}
 
 /*Navigationbar Right Part*/
 #registrateLogIn ul{float: right; padding-top: 8px;}
 #registrateLogIn ul li{font-size: 20px; float: left; padding-right: 30px; list-style: none; transition-duration: 0.4s}
-#registrateLogIn ul li:hover{padding-top: 7px;}
+#registrateLogIn ul li:hover{font-size: 24px;}
 
 
 /*Dropdown for "Festivals"*/
@@ -31,13 +32,13 @@ header img:hover{opacity: 0.6}
 .dropdown-content a {float: none; color: #494949; padding: 12px 16px; text-decoration: none; display: block; text-align: left;}
 .dropdown-content a:hover {background-color: #ddd;}
 .dropdown:hover .dropdown-content {display: block;}
-.dropbtn:hover{padding-top: 7px; cursor: pointer;}
+.dropbtn:hover{font-size:24px;; cursor: pointer;}
 
 /*LogIn & Registration Style*/
 #login, #registrate{background-color: #ffffff;}
 #login{padding-bottom: 14.5%; padding-top: 7%}
 #registrate{padding-bottom: 11%; padding-top: 6%}
-.input{margin: 1px 35% 1px 33%; padding: 0px 5px; width: 26%; height: 30px; border-radius: 5px;box-shadow: 0 0 0 0 #F0F2F2; border:  1px solid #4184BF}
+.input{margin: 1px 35% 1px 33%; padding: 0px 5px; width: 26%; height: 30px; border-radius: 5px;box-shadow: 0 0 0 0 #F0F2F2; border: 1px solid #4184BF}
 .inputText{padding-left: 33%; margin-bottom: 2px;; padding-top: 15px; font-size: 17px;}
 .submit{margin: 40px 45% 1px 33%; width: 7%; height: 30px;background-color: #F0F2F2; border: 1px solid #4184BF; border-radius: 5px; color: #4184BF; transition-duration: 0.5s;}
 .input:focus{outline: none;}
@@ -49,10 +50,14 @@ header img:hover{opacity: 0.6}
 .festival ul li{list-style: none;}
 
 /*About Style*/
-table{text-align: center;padding-top: 3%; padding-left: 12%; font-size: 23px;}
+table{text-align: center; padding-top: 3%; padding-left: 19%; font-size: 23px; position: static;}
 table img{width: 30%;}
 table hr{width: 40%;}
 .socialmedia{width: 15%}
+
+/*Contact Style*/
+#contactform{padding-top: 3%; padding-left: 38%; padding-botom: 5%; width: 65%;}
+#submit{margin-top: 5%; margin-left: 40%; margin-bottom: 5%; width: 25%;}
 
 /*Footer Style*/
 footer{text-align: center; background-color: #f0f2f2; margin-bottom: 0px; margin-top: 0px; padding-bottom: 20px; padding-top: 5px; box-shadow: 0px 0px 7px 1px #424242;}

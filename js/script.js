@@ -1,8 +1,8 @@
 var images = [
-    'tomorrowland.jpg', 
-    'frequency.jpg', 
-    'donauinselfest.jpg',
-	'ultramusicfestival.jpg'
+    '../img/tomorrowland.jpg', 
+    '../img/frequency.jpg', 
+    '../img/donauinselfest.jpg',
+	'../img/ultramusicfestival.jpg'
 ];
 var num = 0;
 function next() {

@@ -17,4 +17,8 @@
 <file name="registrate.php" server="192.168.0.8//" local="132249703800000000" remote="132249703800000000" Dst="1" />
 <file name="about.php" server="192.168.0.8//" local="132247134523384850" remote="132247134000000000" Dst="1" />
 <file name="headBootstrap.php" server="G:/XAMPP/htdocs/WEB_P/" local="132253659574338988" remote="132253659570000000" Dst="1" />
+<file name="head.php" server="http://192.168.0.8:5000/Web/" local="132253739890509508" remote="132253739890000000" Dst="1" />
+<file name="index.php" server="http://192.168.0.8:5000/Web/" local="132253739377053983" remote="132253739370000000" Dst="1" />
+<file name="head.php" server="192.168.0.8" local="132298647899243086" remote="132298647600000000" Dst="1" />
+<file name="index.php" server="192.168.0.8" local="132253739377053983" remote="132253738800000000" Dst="1" />
 </dwsync>

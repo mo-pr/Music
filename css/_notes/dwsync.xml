@@ -4,4 +4,24 @@
 <file name="bootstrap.min.css" server="G:/XAMPP/htdocs/WEB_P/" local="132248745600000000" remote="132248745600000000" Dst="1" />
 <file name="style.css" server="192.168.0.8//" local="132248754415389345" remote="132248754000000000" Dst="1" />
 <file name="bootstrap.min.css" server="192.168.0.8//" local="132248745600000000" remote="132248745600000000" Dst="1" />
+<file name="bootstrap-grid.css" server="http://192.168.0.8:5000/" local="132253629208116961" remote="132254085120000000" Dst="1" />
+<file name="bootstrap-grid.css.map" server="http://192.168.0.8:5000/" local="132253629209060017" remote="132254085130000000" Dst="1" />
+<file name="bootstrap-grid.min.css" server="http://192.168.0.8:5000/" local="132253629207041059" remote="132254085130000000" Dst="1" />
+<file name="bootstrap-grid.min.css.map" server="http://192.168.0.8:5000/" local="132253629207721060" remote="132254085130000000" Dst="1" />
+<file name="bootstrap-reboot.css" server="http://192.168.0.8:5000/" local="132253629207241057" remote="132254085130000000" Dst="1" />
+<file name="bootstrap-reboot.css.map" server="http://192.168.0.8:5000/" local="132253629208429697" remote="132254085150000000" Dst="1" />
+<file name="bootstrap-reboot.min.css" server="http://192.168.0.8:5000/" local="132253629207804533" remote="132254085160000000" Dst="1" />
+<file name="bootstrap-reboot.min.css.map" server="http://192.168.0.8:5000/" local="132253629207561347" remote="132254085170000000" Dst="1" />
+<file name="bootstrap-theme.css" server="http://192.168.0.8:5000/" local="132247072538072087" remote="132254085170000000" Dst="1" />
+<file name="bootstrap-theme.css.map" server="http://192.168.0.8:5000/" local="132247072539008279" remote="132254085180000000" Dst="1" />
+<file name="bootstrap-theme.min.css" server="http://192.168.0.8:5000/" local="132247072540101424" remote="132254085180000000" Dst="1" />
+<file name="bootstrap-theme.min.css.map" server="http://192.168.0.8:5000/" local="132247072540882501" remote="132254085180000000" Dst="1" />
+<file name="bootstrap.css" server="http://192.168.0.8:5000/" local="132247072541665151" remote="132254085180000000" Dst="1" />
+<file name="bootstrap.css.map" server="http://192.168.0.8:5000/" local="132247072542600847" remote="132254085190000000" Dst="1" />
+<file name="bootstrap.min.css" server="http://192.168.0.8:5000/" local="132248745600000000" remote="132254085190000000" Dst="1" />
+<file name="bootstrap.min.css.map" server="http://192.168.0.8:5000/" local="132247072544319245" remote="132254085200000000" Dst="1" />
+<file name="style.css" server="http://192.168.0.8:5000/" local="132253738509462747" remote="132254085200000000" Dst="1" />
+<file name="style.css" server="http://192.168.0.8:5000/Web/" local="132253738509462747" remote="132253738500000000" Dst="1" />
+<file name="style.css" server="192.168.0.8" local="132295503521713978" remote="132295503000000000" Dst="1" />
+<file name="bootstrap.min.css" server="192.168.0.8" local="132248745600000000" remote="132248745600000000" Dst="1" />
 </dwsync>

@@ -4,4 +4,17 @@
 <file name="bootstrap.min.js" server="G:/XAMPP/htdocs/WEB_P/" local="132247072554146813" remote="132247072550000000" Dst="1" />
 <file name="script.js" server="192.168.0.8//" local="132247712684955233" remote="132247712400000000" Dst="1" />
 <file name="bootstrap.min.js" server="192.168.0.8//" local="132247072554146813" remote="132247072200000000" Dst="1" />
+<file name="bootstrap.bundle.js" server="http://192.168.0.8:5000/" local="132253629204941502" remote="132254085330000000" Dst="1" />
+<file name="bootstrap.bundle.js.map" server="http://192.168.0.8:5000/" local="132253629205301267" remote="132254085340000000" Dst="1" />
+<file name="bootstrap.bundle.min.js" server="http://192.168.0.8:5000/" local="132253629206722694" remote="132254085340000000" Dst="1" />
+<file name="bootstrap.bundle.min.js.map" server="http://192.168.0.8:5000/" local="132253629205785069" remote="132254085340000000" Dst="1" />
+<file name="bootstrap.js" server="http://192.168.0.8:5000/" local="132247072553211089" remote="132254085350000000" Dst="1" />
+<file name="bootstrap.js.map" server="http://192.168.0.8:5000/" local="132253629205941285" remote="132254085360000000" Dst="1" />
+<file name="bootstrap.min.js" server="http://192.168.0.8:5000/" local="132247072554146813" remote="132254085370000000" Dst="1" />
+<file name="bootstrap.min.js.map" server="http://192.168.0.8:5000/" local="132253629205141617" remote="132254085380000000" Dst="1" />
+<file name="npm.js" server="http://192.168.0.8:5000/" local="132247072555865125" remote="132254085380000000" Dst="1" />
+<file name="script.js" server="http://192.168.0.8:5000/" local="132253740110053429" remote="132254085380000000" Dst="1" />
+<file name="script.js" server="http://192.168.0.8:5000/Web/" local="132253740110053429" remote="132253740110000000" Dst="1" />
+<file name="script.js" server="192.168.0.8" local="132295518675004574" remote="132295518600000000" Dst="1" />
+<file name="bootstrap.min.js" server="192.168.0.8" local="132247072554146813" remote="132247072200000000" Dst="1" />
 </dwsync>

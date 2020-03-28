@@ -24,3 +24,6 @@ function next() {
 function auto(){
 	setInterval(next, 6000);
 }
+function registerSubmit(){
+    
+}

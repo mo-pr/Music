@@ -8,4 +8,9 @@
 <file name="glyphicons-halflings-regular.woff2" server="192.168.0.8//" local="132247072552117553" remote="132247072200000000" Dst="1" />
 <file name="glyphicons-halflings-regular.woff" server="192.168.0.8//" local="132247072551179745" remote="132247072200000000" Dst="1" />
 <file name="glyphicons-halflings-regular.ttf" server="192.168.0.8//" local="132247072549930491" remote="132247072200000000" Dst="1" />
+<file name="glyphicons-halflings-regular.eot" server="http://192.168.0.8:5000/" local="132247072548054487" remote="132254085200000000" Dst="1" />
+<file name="glyphicons-halflings-regular.svg" server="http://192.168.0.8:5000/" local="132247072548993388" remote="132254085220000000" Dst="1" />
+<file name="glyphicons-halflings-regular.ttf" server="http://192.168.0.8:5000/" local="132247072549930491" remote="132254085230000000" Dst="1" />
+<file name="glyphicons-halflings-regular.woff" server="http://192.168.0.8:5000/" local="132247072551179745" remote="132254085240000000" Dst="1" />
+<file name="glyphicons-halflings-regular.woff2" server="http://192.168.0.8:5000/" local="132247072552117553" remote="132254085240000000" Dst="1" />
 </dwsync>

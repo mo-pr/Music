@@ -1,4 +1,6 @@
-<?php include('head.php');?>
+<?php include('head.php');
+include_once('/config/config.php');
+?>
 
 <form id="registrate">
 	<p class="inputText">E-Mail:</p>

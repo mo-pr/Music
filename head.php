@@ -27,13 +27,13 @@
 				  <a href="./ultramusicfestival.php" >Ultra Music Festival</a>
 			  	</div>
 			</div> 
-				<li><a>Forum</a></li>
+				<li><a href="forum">Forum</a></li>
 				<li><a href="about.php">About</a></li>
 			</ul>
 			<div id="registrateLogIn">
 				<ul>
-					<li><a href="login.php">Log In</a></li>
-					<li><a href="registrate.php">Sign Up</a></li>
+					<li><a href="/forum/login.php">Log In</a></li> <!--href="login.php"-->
+					<li><a href="/forum/register.php">Sign Up</a></li> <!--href="registrate"-->
 				</ul>
 			</div>
 		</nav>

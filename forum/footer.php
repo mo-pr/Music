@@ -20,9 +20,6 @@ ob_end_clean();
 ob_start();
 
 ?>
-<div id="brdfooter" class="block">
-	<h2><span><?php echo $lang_common['Board footer'] ?></span></h2>
-	<div class="box">
 <?php
 
 if (isset($footer_style) && ($footer_style == 'viewforum' || $footer_style == 'viewtopic') && $is_admmod)
@@ -62,7 +59,6 @@ if (isset($footer_style) && ($footer_style == 'viewforum' || $footer_style == 'v
 }
 
 ?>
-		<div id="brdfooternav" class="inbox">
 <?php
 
 echo "\t\t\t".'<div class="conl">'."\n";
@@ -87,9 +83,8 @@ if ($pun_config['o_quickjump'] == '1')
 echo "\t\t\t".'</div>'."\n";
 
 ?>
-			<div class="conr">
 <?php
-
+/*
 // If no footer style has been specified, we use the default (only copyright/debug info)
 $footer_style = isset($footer_style) ? $footer_style : NULL;
 
@@ -114,14 +109,8 @@ else if ($footer_style == 'viewtopic')
 	else if ($pun_config['o_feed_type'] == '2')
 		echo "\t\t\t\t".'<p id="feedlinks"><span class="atom"><a href="extern.php?action=feed&amp;tid='.$id.'&amp;type=atom">'.$lang_common['Atom topic feed'].'</a></span></p>'."\n";
 }
-
+*/
 ?>
-				<p id="poweredby"><?php printf($lang_common['Powered by'], '<a href="http://fluxbb.org/">FluxBB</a>'.(($pun_config['o_show_version'] == '1') ? ' '.$pun_config['o_cur_version'] : '')) ?></p>
-			</div>
-			<div class="clearer"></div>
-		</div>
-	</div>
-</div>
 <?php
 
 // Display debug info (if enabled/defined)

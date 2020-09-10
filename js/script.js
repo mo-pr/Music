@@ -2,7 +2,8 @@ var images = [
     '../img/tomorrowland.jpg', 
     '../img/frequency.jpg', 
     '../img/donauinselfest.jpg',
-	'../img/ultramusicfestival.jpg'
+	'../img/ultramusicfestival.jpg',
+    '../img/neworleans.jpg'
 ];
 var num = 0;
 function next() {
@@ -24,6 +25,6 @@ function next() {
 function auto(){
 	setInterval(next, 6000);
 }
-function registerSubmit(){
-    
+function alert(){
+    alert("You're message was sent successfully!")
 }

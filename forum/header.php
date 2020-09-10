@@ -1,3 +1,5 @@
+<link rel="icon" href="../img/logo.png">
+
 <?php
 
 /**
@@ -191,7 +193,7 @@ $tpl_main = str_replace('<pun_desc>', '<div id="brddesc">'.$pun_config['o_board_
 $links = array();
 
 // Index should always be displayed
-$links[] = '<li id="navindex"'.((PUN_ACTIVE_PAGE == 'index') ? ' class="isactive"' : '').'><a href="index.php">'.$lang_common['Index'].'</a></li>';
+$links[] = '<li id="navindex"'.((PUN_ACTIVE_PAGE == 'index') ? ' class="isactive"' : '').'><a href="../index.php">'.$lang_common['Index'].'</a></li>';
 
 if ($pun_user['g_read_board'] == '1' && $pun_user['g_view_users'] == '1')
 	$links[] = '<li id="navuserlist"'.((PUN_ACTIVE_PAGE == 'userlist') ? ' class="isactive"' : '').'><a href="userlist.php">'.$lang_common['User list'].'</a></li>';

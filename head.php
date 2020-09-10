@@ -17,14 +17,15 @@
 		<nav>
 			<ul class="Nav-List">
 				<li><a href="index.php">Home</a></li>
-				<li><a>Genres</a></li>
+				<li><a href="genres.php">Genres</a></li>
 			  <div class="dropdown">
     			<button class="dropbtn">Festivals<i class="fa fa-caret-down"></i></button>
 				<div class="dropdown-content">
-				  <a href="./tomorrowland.php">Tomorrowland</a>
-				  <a href="./frequency.php">Frquency</a>
-				  <a href="./donauinsel.php">Donauinselfest</a>
-				  <a href="./ultramusicfestival.php" >Ultra Music Festival</a>
+                    <a href="./tomorrowland.php">Tomorrowland</a>
+                    <a href="./frequency.php">Frquency</a>
+                    <a href="./donauinsel.php">Donauinselfest</a>
+                    <a href="./ultramusicfestival.php" >Ultra Music Festival</a>
+                    <a href="./neworleans.php">New Orleans Jazz</a>
 			  	</div>
 			</div> 
 				<li><a href="forum">Forum</a></li>
